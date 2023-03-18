@@ -24,7 +24,7 @@ function App() {
   return (
     <div>
       <div className="App h-full">
-        <div className="bg-gray-900 py-16 sm:py-24 h-full w-full">
+        <div className="bg-gray-900 py-16 h-full w-full">
           <div className="relative isolate overflow-hidden h-full  px-6 py-24 sm:px-24 xl:py-32">
             <div className=" flex flex-col items-center">
               <SiApplemusic color="white" size={60} />
@@ -83,8 +83,6 @@ function App() {
                 />
               </svg>
             </a>
-
-
           </div>
           <div className="mt-8 md:order-1 md:mt-0">
             <p className="text-center text-xs leading-5 text-gray-500">
