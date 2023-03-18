@@ -32,7 +32,7 @@ function App() {
                 Get your artist musics
               </h1>
               <h2 className="mx-auto mt-2 max-w-xl text-center text-lg leading-8 text-gray-300">
-                You just need search
+                You just need to search.
               </h2>
             </div>
             <div className="mx-auto mt-10 flex max-w-md gap-x-4 mb-12 w-full">
