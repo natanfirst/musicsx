@@ -13,7 +13,7 @@ const FadeCenterModal = ({ children }: Props) => {
   return (
     <>
       <div
-        className={`fixed w-full h-full bg-black bg-opacity-50 top-0 left-0 flex justify-center ${
+        className={`fixed w-full h-full  bg-black bg-opacity-50 top-0 left-0 flex justify-center ${
           open ? "opacity-1 visible" : " opacity-0 invisible"
         }`}
         onClick={() => {

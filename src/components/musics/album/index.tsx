@@ -14,7 +14,7 @@ const Album = () => {
 
   return (
     <div className="p-10">
-      <div className="flex justify-end fixed right-7">
+      <div className="flex justify-end fixed right-7 lg:sticky">
         <button onClick={() => dispatch({ type: "CLOSE_MODAL" })}>
           <AiOutlineClose color="white" size={32} />
         </button>
