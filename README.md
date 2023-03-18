@@ -47,3 +47,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 
 <img width="345" alt="Screenshot 2023-03-18 at 12 14 43" src="https://user-images.githubusercontent.com/74800473/226114497-c5adde41-b2d9-4c22-a530-5855741014cd.png">
+
+
+<img width="349" alt="Screenshot 2023-03-18 at 12 17 04" src="https://user-images.githubusercontent.com/74800473/226114625-b89a40ed-0fd5-403c-a266-e507a80c03b4.png">
